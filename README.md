@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoroberto_z/)
 
 ![Estatísticas do GitHub de Gustavo](https://github-readme-stats.vercel.app/api?username=GusLopsCodes&theme=dracula&show_icons=true&locale=pt-br)
-![Estatísticas do GitHub de Gustavo](https://github-readme-stats.vercel.app/api?username=GusLopsCodes&theme=dracula&show_icons=true&locale=en)
-![Estatísticas do GitHub de Gustavo](https://github-readme-stats.vercel.app/api?username=GusLopsCodes&theme=dracula&show_icons=true&locale=es)
 
 ### Tecnologias que uso no meu dia a dia ⌨️
 
@@ -21,10 +19,6 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusLopsCodes&layout=donut&theme=dracula&locale=pt-br)](https://github.com/GusLopsCodes)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusLopsCodes&layout=donut&theme=dracula&locale=en)](https://github.com/GusLopsCodes)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusLopsCodes&layout=donut&theme=dracula&locale=es)](https://github.com/GusLopsCodes)
 
 ---
 
